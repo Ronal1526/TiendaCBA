@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ProyectoDashboard4</string>
+    <string name="canal_Tienda">CanalTienda</string>
+    <string name="canal_Notifi">Canal de notificaciones CBA</string>
+    <string name="titulo_clavel">Flores Clavel</string>
+    <string name="precio_clavel">$4000 U</string>
+    <string name="titulo_rosas">Flores Rosa</string>
+    <string name="precio_rosas">$5000 U</string>
+    <string name="titulo_girasoles">Flores Girasol</string>
+    <string name="precio_girasoles">$6000 U</string>
+    <string name="titulo_margaritas">Flores Margarita</string>
+    <string name="precio_margaritas">$4500 U</string>
+    <string name="titulo_lirio">Flor Lirio</string>
+    <string name="precio_lirio">$6000 U</string>
+    <string name="titulo_tulipan">Flores Tulipan</string>
+    <string name="precio_tulipan">$7000 U</string>
+    <string name="titulo_queso">Queso</string>
+    <string name="precio_queso">$4000 U</string>
+    <string name="titulo_leche">Leche</string>
+    <string name="precio_leche">$3500</string>
+    <string name="titulo_yogurt">Yogurt</string>
+    <string name="precio_yogurt">$6000</string>
+    <string name="titulo_huevos_a">Huevos A</string>
+    <string name="precio_huevos_a">$16000</string>
+    <string name="titulo_huevos_b">Huevos B</string>
+    <string name="precio_huevos_b">$15000</string>
+    <string name="titulo_huevos_c">Huevos C</string>
+    <string name="precio_huevos_c">$14000</string>
+    <string name="titulo_huevos_aa">Huevos AA</string>
+    <string name="precio_huevos_aa">$18000</string>
+    <string name="titulo_cebolla">Cebolla</string>
+    <string name="precio_cebolla">$3000 L</string>
+    <string name="titulo_tomate">Tomate</string>
+    <string name="precio_tomate">$2500 L</string>
+    <string name="titulo_cilantro">Cilantro</string>
+    <string name="precio_cilantro">$1000 R</string>
+    <string name="titulo_naranja">Naranja</string>
+    <string name="precio_naranja">$1500 L</string>
+    <string name="titulo_manzana">Manzana</string>
+    <string name="precio_manzana">$5000 L</string>
+    <string name="titulo_piña">Piña</string>
+    <string name="precio_piña">$7000 U</string>
+    <string name="cumpleaños_sena">62 años sena</string>
+    <string name="nuestra_Tienda">Nuestra Tienda</string>
+    <string name="Dia_de_Descuentos">Ofertas</string>
+    <string name="texto_sena">
+El Servicio Nacional de Aprendizaje, más conocido como SENA, es una entidad pública en Colombia que se encarga de la formación técnica, tecnológica y profesional de los ciudadanos del país. A pesar de mi conocimiento limitado hasta septiembre de 2021, puedo proporcionarte información general sobre el SENA y cómo se celebra el cumpleaños de esta institución.</string>
+    <string name="texto_descuento">¡Gran noticia! ¡Tenemos un descuento especial para ti en nuestra tienda virtual! Por tiempo limitado, te ofrecemos un increíble descuento del 20% en todos nuestros productos. Esta es la oportunidad perfecta para obtener esos artículos que tanto deseas a precios realmente bajos.</string>
+    <string name="nuestra_tienda">
+¡Bienvenidos a nuestra tienda virtual campesina, donde la esencia de la tierra y la tradición se encuentran en cada producto que ofrecemos! Nos enorgullecemos de ofrecerte lo mejor de nuestras raíces rurales, llenas de sabor, calidad y amor por la naturaleza.</string>
+
+    <string name="bienvenidos_clientes">Bienvenidos Clientes</string>
+    <string name="productos_nuevos">Productos Nuevos</string>
+    <string name="manual_del_cliente">Normas del cliente</string>
+    <string name="recompensas">Recompensas</string>
+</resources>
